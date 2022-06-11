@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" status="timeout",广东体育 (720p)
+#EXTINF:-1 tvg-id="" status="timeout",广东体育
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=8&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:-1 tvg-id="" status="timeout",广东体育 (576p)
+#EXTINF:-1 tvg-id="" status="timeout",广东体育
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=20&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:-1 tvg-id="" status="timeout",上海五星体育 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="" status="timeout",五星体育
 http://112.25.48.68/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",五星体育 (720p)
-http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",五星体育
+http://140.207.241.2:8080/live/program/live/ssty/2300000/mnf.m3u8
